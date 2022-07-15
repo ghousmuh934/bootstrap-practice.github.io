@@ -1,0 +1,66 @@
+.navbar-custom{
+	background-color: #282e3e;
+	border-radius: 0px;
+	color:#fff;
+	padding:10px;
+	position: fixed;
+}
+.navbar-custom .navbar-nav>li>a{
+	color: #fff;
+	font-size: 19px;
+	margin-left: 13px;
+}
+.navbar-custom .navbar-nav>.active>a{
+	color: #fff;
+	background-color: #82c434;
+}
+.navbar-custom .navbar-nav>li>a:hover{
+	background-color: #82c434;
+
+}
+.navbar-custom .navbar-brand{
+	color: #fff;
+	font-size: 27px;
+	font-weight: BOLD;
+	margin-left: 15px;
+}
+.navbar-custom .navbar-brand:hover{
+	color: #fff;
+	font-size: 27px;
+	font-weight: BOLD;
+	
+}
+.slid{
+	height: 500px;
+}
+.carousel-caption{
+	color:#fff;
+	position: absolute;
+	top:35%;
+	left:-20%;
+}
+b{
+	font-size: 40px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c434;
+	font-weight: bold;
+}
+#service{
+	font-size: 45px;
+	font-weight: bold;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c434;
+}
+.ser1{
+	min-height: 350px;
+	border-style:solid;border-color: #999999;border-width: 1px;
+
+}
+.icon{
+	width: 130px;font-size: 60px;
+	background-color: #d9d9d9;
+	padding: 5px 10px;height: 110px;color:#82c434;margin-top: -55px;
+}
+.btn-primary{
+	background-color: #82c434;border-radius: 0px;border-color: #82c434;
+}
